@@ -1,0 +1,10 @@
+C:\Users\ana.bgsantos10\source\programadordesistemas\sistemacalculodedesconto\bin\x64\Debug\sistemacalculodedesconto.exe.config
+C:\Users\ana.bgsantos10\source\programadordesistemas\sistemacalculodedesconto\bin\x64\Debug\sistemacalculodedesconto.exe
+C:\Users\ana.bgsantos10\source\programadordesistemas\sistemacalculodedesconto\bin\x64\Debug\sistemacalculodedesconto.pdb
+C:\Users\ana.bgsantos10\source\programadordesistemas\sistemacalculodedesconto\obj\x64\Debug\sistemacalculodedesconto.csproj.AssemblyReference.cache
+C:\Users\ana.bgsantos10\source\programadordesistemas\sistemacalculodedesconto\obj\x64\Debug\sistemacalculodedesconto.frmSistemaCalculoDesconto.resources
+C:\Users\ana.bgsantos10\source\programadordesistemas\sistemacalculodedesconto\obj\x64\Debug\sistemacalculodedesconto.Properties.Resources.resources
+C:\Users\ana.bgsantos10\source\programadordesistemas\sistemacalculodedesconto\obj\x64\Debug\sistemacalculodedesconto.csproj.GenerateResource.cache
+C:\Users\ana.bgsantos10\source\programadordesistemas\sistemacalculodedesconto\obj\x64\Debug\sistemacalculodedesconto.csproj.CoreCompileInputs.cache
+C:\Users\ana.bgsantos10\source\programadordesistemas\sistemacalculodedesconto\obj\x64\Debug\sistemacalculodedesconto.exe
+C:\Users\ana.bgsantos10\source\programadordesistemas\sistemacalculodedesconto\obj\x64\Debug\sistemacalculodedesconto.pdb

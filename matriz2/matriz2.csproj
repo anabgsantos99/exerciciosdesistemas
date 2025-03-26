@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A3F7B382-0E99-4EE5-8D7E-7CC9C903AD07}</ProjectGuid>
+    <ProjectGuid>{B0CB7B62-0B33-4F61-B1D1-15EDFFB4DC89}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Matriz</RootNamespace>
-    <AssemblyName>Matriz</AssemblyName>
+    <RootNamespace>matriz2</RootNamespace>
+    <AssemblyName>matriz2</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

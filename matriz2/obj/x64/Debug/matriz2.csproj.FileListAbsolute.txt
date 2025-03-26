@@ -1,0 +1,10 @@
+C:\Users\ana.bgsantos10\source\exerciciosprogramadordesistemas\matriz2\obj\x64\Debug\matriz2.csproj.AssemblyReference.cache
+C:\Users\ana.bgsantos10\source\exerciciosprogramadordesistemas\matriz2\obj\x64\Debug\matriz2.Properties.Resources.resources
+C:\Users\ana.bgsantos10\source\exerciciosprogramadordesistemas\matriz2\obj\x64\Debug\matriz2.csproj.GenerateResource.cache
+C:\Users\ana.bgsantos10\source\exerciciosprogramadordesistemas\matriz2\obj\x64\Debug\matriz2.csproj.CoreCompileInputs.cache
+C:\Users\ana.bgsantos10\source\exerciciosprogramadordesistemas\matriz2\bin\x64\Debug\matriz2.exe.config
+C:\Users\ana.bgsantos10\source\exerciciosprogramadordesistemas\matriz2\bin\x64\Debug\matriz2.exe
+C:\Users\ana.bgsantos10\source\exerciciosprogramadordesistemas\matriz2\bin\x64\Debug\matriz2.pdb
+C:\Users\ana.bgsantos10\source\exerciciosprogramadordesistemas\matriz2\obj\x64\Debug\matriz2.exe
+C:\Users\ana.bgsantos10\source\exerciciosprogramadordesistemas\matriz2\obj\x64\Debug\matriz2.pdb
+C:\Users\ana.bgsantos10\source\exerciciosprogramadordesistemas\matriz2\obj\x64\Debug\matriz2.frmMatriz.resources

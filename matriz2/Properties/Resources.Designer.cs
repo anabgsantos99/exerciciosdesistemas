@@ -9,7 +9,7 @@
 //------------------------------------------------------------------------------
 
 
-namespace Matriz.Properties
+namespace matriz2.Properties
 {
     /// <summary>
     ///   Uma classe de recurso fortemente tipados, para pesquisar cadeias de caracteres localizadas etc.
@@ -43,7 +43,7 @@ namespace Matriz.Properties
             {
                 if ((resourceMan == null))
                 {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Matriz.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("matriz2.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
